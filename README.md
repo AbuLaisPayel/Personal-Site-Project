@@ -1,2 +1,1 @@
-# Personal-Site-Project
-Personal Site Project (CV)
+# personal-site
